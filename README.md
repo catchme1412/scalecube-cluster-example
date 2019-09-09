@@ -1,6 +1,6 @@
-To build the code ./build.sh
-To start the Proxy.java use ./proxy.sh
-To start the Agent.java use ./agent.sh
+* To build the code ./build.sh
+* To start the Proxy.java use ./proxy.sh
+* To start the Agent.java use ./agent.sh
 
 Following are the JVM arguments used by each services
 -DPROXY_SERVICE_IP=localhost \
